@@ -1,7 +1,6 @@
-[!MasterHead](https://bestanimations.com/Nature/Storms/lightning-storm-animated-gif-8.gif)]
 <h1 align="center">Hi 👋, I'm Ashirvad Pandey</h1>
 <h3 align="center">A passionate Cloud Developer</h3>
-<img align="right" alt"AWS" width ="400" src="https://media.amazonwebservices.com/blog/2016/amazon_linux_2016_09_animated_cow_1.gif">
+<img align="middle" alt"AWS" width ="400" src="https://media.amazonwebservices.com/blog/2016/amazon_linux_2016_09_animated_cow_1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirvadpandey&label=Profile%20views&color=0e75b6&style=flat" alt="ashirvadpandey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashirvadpandey" alt="ashirvadpandey" /></a> </p>
