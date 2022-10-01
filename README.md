@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashirvadpandey" alt="ashirvadpandey" /></a> </p>
 
-- 🔭 I’m currently working on **TMS Foundation**
 
 - 🌱 I’m currently learning **DevOps ,AWS,Python**
 
